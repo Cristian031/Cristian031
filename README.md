@@ -37,15 +37,6 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white)
 
 
-## 📊 GitHub Stats  
-
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian031&show_icons=true&theme=radical)
-
-## 🚀 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian031&layout=compact&theme=radical)
-
-
 
 ---
 
